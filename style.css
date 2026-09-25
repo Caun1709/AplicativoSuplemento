@@ -1,8 +1,8 @@
 p{
-    color:#f4f3f8;
+    color:#f9f4f4;
 }
 div{
-    background-color:rgb(242, 242, 244);
+    background-color:rgb(60, 60, 169);
 }
 .meu-botao {
     background-color: rgb(0, 0, 0);
@@ -13,7 +13,7 @@ div{
 }
 
 .meu-botao:hover {
-    background-color: red;
+    background-color: rgb(106, 0, 255);
 }
 
    
